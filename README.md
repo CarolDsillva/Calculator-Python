@@ -1,2 +1,5 @@
-# Calculator-Python
-This is a calculator made using python. The GUI used is tkinter.
+
+## Screenshots
+
+![App Screenshot](https://github.com/Carol-Dsillva/Calculator-Python/blob/main/Screenshot.png)
+
